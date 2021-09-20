@@ -41,7 +41,7 @@
 		border-top: 1px solid #3a4658; /*border-top: 1px solid #920505;*/
 		padding: 30px 0 60px;
 		text-align: center;
-		color: #677897; /*olor: #777;*/
+		color: #677897; /*color: #777;*/
 	}
 
 	#navigation {
