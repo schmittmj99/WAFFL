@@ -161,7 +161,9 @@
         <PowerRankings />
     </div>
     
-    <div class="leagueData">
+    <!-- Remove League Data, Home Banner, Current Champ, Transactions
+ 
+	<div class="leagueData">
         <div class="homeBanner">
             {#await nflState}
                 <p class="center">Retrieving NFL state...</p>
@@ -205,4 +207,7 @@
             <Transactions masterOffset={left} />
         </div>
     </div>
+
+-->
+
 </div>
