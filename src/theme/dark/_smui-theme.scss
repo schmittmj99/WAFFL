@@ -47,8 +47,8 @@
   --g444: #00ff00; //--g444: #bbb; Unknown
   --g555: #677897; //--g555: #aaa; Theme Icon, Resource Links
   --g333: #9da1ab; //--g333: #ccc; Blog Post Title, Blog Post Body
-  --g111: #00ff00; //--g111: #eee;
-  --g000: #fff;
+  --g111: #00ff00; //--g111: #eee; Unknown
+  --g000: #00ff00; // --g000: #fff;
   --boxShadowOne: #070707;
   --boxShadowTwo: #272727;
   --boxShadowThree: #0d0d0d;
@@ -69,12 +69,12 @@
   --r2: #1f1d1d;
   --r3: #181a18;
   // Positions
-  --QBfade: #fe2a6d; //--QBfade: #ff8fb2;
-  --WRfade: #58a7ff; //--WRfade: #afd4ff;
-  --RBfade: #18ceb8; //--RBfade: #6ccac1;
-  --TEfade: #ffae58; //--TEfade: #ffd6aa;
-  --Kfade: #bd66ff; //--Kfade: #deb4ff;
-  --DEfadeFfade: #7988a1; //--DEfadeFfade: #fffbbc;
+  --QBfade: #fe2a6d; //--QBfade: #ff8fb2; Position Draft Background
+  --WRfade: #58a7ff; //--WRfade: #afd4ff; Position Draft Background
+  --RBfade: #18ceb8; //--RBfade: #6ccac1; Position Draft Background
+  --TEfade: #ffae58; //--TEfade: #ffd6aa; Position Draft Background
+  --Kfade: #bd66ff; //--Kfade: #deb4ff; Position Draft Background
+  --DEfadeFfade: #7988a1; //--DEfadeFfade: #fffbbc; Position Draft Background
   --PICKSfade: #73b647;
   --CBfade: #ffcc7a;
   --SSfade: #b7a1db;
@@ -83,16 +83,16 @@
   --DLfade: #c392d3;
   --LBfade: #98c097;
 
-	--QB: #fe2a6d; //--QB: #ff2a6d;
-	--WR: #58a7ff; //--WR: #58a7ff;
-	--RB: #18ceb8; //--RB: #00ceb8;
-	--TE: #ffae58; //--TE: #ffae58;
-	--K: #bd66ff; //--K: #bd66ff;
-	--DEF: #7988a1; //--DEF: #fff67a;
+	--QB: #fe2a6d; //--QB: #ff2a6d; Position Icon Background
+	--WR: #58a7ff; //--WR: #58a7ff; Position Icon Background
+	--RB: #18ceb8; //--RB: #00ceb8; Position Icon Background
+	--TE: #ffae58; //--TE: #ffae58; Position Icon Background
+	--K: #bd66ff; //--K: #bd66ff; Position Icon Background
+	--DEF: #7988a1; //--DEF: #fff67a; Position Icon Background
 	--DL: #ff795a;
 	--LB: #6d7df5;
 	--DB: #ff7cb6;
-	--BN: #a3bbd3; //--BN: #b6d0eb;
+	--BN: #a3bbd3; //--BN: #b6d0eb; Position Icon Background
 }
 
 html,
