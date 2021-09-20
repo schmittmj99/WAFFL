@@ -158,7 +158,13 @@
                 <HomePost />
             {/if}
         </div>
+	    
+    <!-- Remove Power Rankings	    
+	    
         <PowerRankings />
+
+    -->
+
     </div>
     
     <!-- Remove League Data, Home Banner, Current Champ, Transactions
@@ -208,6 +214,6 @@
         </div>
     </div>
 
--->
+    -->
 
 </div>
