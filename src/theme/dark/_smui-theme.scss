@@ -33,20 +33,20 @@
 @use '@material/typography/index' as typography;
 
 :root {
-  --fff: #000000;
+  --fff: #293142; //--fff: #000000;
   --f8f8f8: #070707;
   --f3f3f3: #0d0d0d;
   --eee: #1b1b1b;
-  --ebebeb: #333;
+  --ebebeb: #181c28; //--ebebeb: #333;
   --ddd: #282828;
   --d7d7d7: #171717;
   --ccc: #444;
-  --bbb: #444;
+  --bbb: #3a4658; //--bbb: #444;
   --aaa: #555;
   --g999: #666;
   --g444: #bbb;
   --g555: #aaa;
-  --g333: #ccc;
+  --g333: #99aacf; //--g333: #ccc;
   --g111: #eee;
   --g000: #fff;
   --boxShadowOne: #070707;
@@ -54,10 +54,10 @@
   --boxShadowThree: #0d0d0d;
   --ir: #222;
   --champShadow: #111;
-  --transactHeader: #202424;
+  --transactHeader: #2f394a; //--transactHeader: #202424;
   --draftSwapped: #202025;
-  --waiverAdd: #3e4741;
-  --waiverDrop: #423a3a;
+  --waiverAdd: #3e4741; //--waiverAdd: #3e4741;
+  --waiverDrop: #423a3a; //--waiverDrop: #423a3a;
   --bracketMatch: #0b0b0c;
   --matchupSelected: #2f2f35;
   --fadeOne: rgba(0, 0, 0, 0) 0%;
@@ -65,7 +65,7 @@
   --fadeThree: rgba(0, 0, 0, 0.9) 90%;
   --fadeFour: rgba(0, 0, 0, 1) 100%;
   --blueOne: #0082c3;
-  --r1: #1c1c1d;
+  --r1: #293142; //--r1: #1c1c1d;
   --r2: #1f1d1d;
   --r3: #181a18;
   // Positions
@@ -83,16 +83,16 @@
   --DLfade: #c392d3;
   --LBfade: #98c097;
 
-	--QB: #ff2a6d;
-	--WR: #58a7ff;
-	--RB: #00ceb8;
-	--TE: #ffae58;
-	--K: #bd66ff;
-	--DEF: #fff67a;
+	--QB: #fe2a6d; //--QB: #ff2a6d;
+	--WR: #58a7ff; //--WR: #58a7ff;
+	--RB: #18ceb8; //--RB: #00ceb8;
+	--TE: #ffae58; //--TE: #ffae58;
+	--K: #bd66ff; //--K: #bd66ff;
+	--DEF: #7988al; //--DEF: #fff67a;
 	--DL: #ff795a;
 	--LB: #6d7df5;
 	--DB: #ff7cb6;
-	--BN: #b6d0eb;
+	--BN: #a3bbd3; //--BN: #b6d0eb;
 }
 
 html,
@@ -103,8 +103,8 @@ body {
   color: theme.$on-surface;
   min-height: 100vh;
   background: #222;
-  background: linear-gradient(to bottom right, #111,#222 );
-  background: -webkit-linear-gradient(to bottom right, #111,#222 );
+  background: linear-gradient(to bottom right, #181c28,#181c28 ); //background: linear-gradient(to bottom right, #111,#222 );
+  background: -webkit-linear-gradient(to bottom right, #181c28,#181c28 ); //background: -webkit-linear-gradient(to bottom right, #111,#222 );
 }
  
 //
@@ -146,7 +146,7 @@ caption {
  
 code,
 pre {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Poppins', sans-serif; //font-family: 'Roboto Mono', monospace;
 }
  
 small {
