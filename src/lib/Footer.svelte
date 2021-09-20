@@ -32,7 +32,7 @@
 
 <style>
 	footer {
-		background-color: var(--293142); //background-color: var(--f8f8f8);
+		background-color: var(--fff); //background-color: var(--f8f8f8);
 		width: 100%;
         display: block;
         position: absolute;
