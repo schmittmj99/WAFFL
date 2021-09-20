@@ -108,15 +108,6 @@
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by <a href="http://www.nmelhado.com/">Nicholas Melhado</a><br /></span>
-	<!-- You can remove the donation link (although any donations to help
-	 maintain and enhance League Page would be greatly appreciated!) -->
-	
-	<!-- Remove Donation Link
-	
-	Love League Page? Please consider <a href="https://www.buymeacoffee.com/nmelhado">donating</a> to support enhancements or just to say thank you!
-
-	-->
-
 </footer>
 
 <footer class="{!outOfDate ? '' : 'invisible'}" bind:this={el}>
@@ -138,13 +129,4 @@
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by <a href="http://www.nmelhado.com/">Nicholas Melhado</a><br /></span>
-	<!-- You can remove the donation link (although any donations to help
-	 maintain and enhance League Page would be greatly appreciated!) -->
-	
-	<!-- Remove Donation Link
-	
-	Love League Page? Please consider <a href="https://www.buymeacoffee.com/nmelhado">donating</a> to support enhancements or just to say thank you!
-
-	-->
-	
 </footer>
