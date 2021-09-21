@@ -4,7 +4,7 @@
 
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
-  $primary: #0082c3,
+  $primary: #00ff00, //  $primary: #0082c3
   $secondary: #00316b,
   $surface: #000000,
   $background: #000000,
@@ -52,7 +52,7 @@
   --boxShadowOne: #070707;
   --boxShadowTwo: #272727;
   --boxShadowThree: #0d0d0d;
-  --ir: #00ff00; //--ir: #222;
+  --ir: #00ff00; //--ir: #222; Unknown
   --champShadow: #111;
   --transactHeader: #2f394a; //--transactHeader: #202424;
   --draftSwapped: #202025;
