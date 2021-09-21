@@ -4,8 +4,8 @@
 
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
-  $primary: #00ceb8, //  $primary: #0082c3 Navigation Button Selected Text and Selector, Navigation Mouseover Background Fade, Progress Bars,  Button Selected Background, Button Text
-  $secondary: #00316b,
+  $primary: #00ceb8, //$primary: #0082c3, Navigation Button Selected Text and Selector, Navigation Mouseover Background Fade, Progress Bars,  Button Selected Background, Button Text
+  $secondary: #00ff00, //$secondary: #00316b,
   $surface: #000000,
   $background: #000000,
   $error: color-palette.$red-900,
@@ -64,7 +64,7 @@
   --fadeTwo: rgba(0, 0, 0, 0.7) 50%;
   --fadeThree: rgba(0, 0, 0, 0.9) 90%;
   --fadeFour: rgba(0, 0, 0, 1) 100%;
-  --blueOne: #0082c3;
+  --blueOne: #00ceb8; //--blueOne: #0082c3; Selected Pagination
   --r1: #293142; //--r1: #1c1c1d; Division 1 Team Header Background
   --r2: #293142; //--r2: #1f1d1d; Division 2 Team Header Background
   --r3: #293142; //--r3: #181a18; Division 3 Team Header Background
