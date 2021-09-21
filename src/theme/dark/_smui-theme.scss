@@ -5,7 +5,7 @@
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
   $primary: #00ceb8, //$primary: #0082c3, Navigation Button Selected Text and Selector, Navigation Mouseover Background Fade, Progress Bars,  Button Selected Background, Button Text
-  $secondary: #293142, //$secondary: #00316b, Roster Bench Player Backgrounds
+  $secondary: #00ff00, //$secondary: #00316b,
   $surface: #000000,
   $background: #000000,
   $error: color-palette.$red-900,
@@ -52,7 +52,7 @@
   --boxShadowOne: #070707;
   --boxShadowTwo: #272727;
   --boxShadowThree: #0d0d0d;
-  --ir: #00ff00; //--ir: #222; Unknown
+  --ir: #293142; //--ir: #222; Roster Bench Player Backgrounds
   --champShadow: #111;
   --transactHeader: #2f394a; //--transactHeader: #202424;
   --draftSwapped: #202025;
