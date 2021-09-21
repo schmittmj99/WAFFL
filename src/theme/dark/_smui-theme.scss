@@ -5,9 +5,9 @@
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
   $primary: #00ceb8, //$primary: #0082c3, Navigation Selected Text and Selector, Navigation Mouseover Background Fade, Progress Bars,  Button Selected Background, Button Text
-  $secondary: #00ff00, //$secondary: #00316b,
+  $secondary: #00ff00, //$secondary: #00316b, Unknown
   $surface: #3a4658, //$surface: #000000, Transaction Dividers, Navigation Text, Most Other Header Texts (Doesn't work like normal on the texts, makes them black)
-  $background: #3a4658, //$background: #000000, Navigation Sub Text (Doesn't work like normal on the texts, makes them black
+  $background: #3a4658, //$background: #000000, Navigation Sub Text (Doesn't work like normal on the texts, makes them black)
   $error: color-palette.$red-900,
 );
 
@@ -102,7 +102,7 @@ body {
   background-color: theme.$surface;
   color: theme.$on-surface;
   min-height: 100vh;
-  background: #222;
+  background: #00ff00; //  background: #222;
   background: linear-gradient(to bottom right, #181c28,#181c28 ); //background: linear-gradient(to bottom right, #111,#222 );
   background: -webkit-linear-gradient(to bottom right, #181c28,#181c28 ); //background: -webkit-linear-gradient(to bottom right, #111,#222 );
 }
