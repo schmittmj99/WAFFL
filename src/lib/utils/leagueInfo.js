@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p style="text-align:center;"><img src="./waffl-logo-grey-sleeperback.jpg" alt="WAFFL logo" width="600" height="600"></p>
+  <p style="text-align:center;"><img src="./waffl-logo-grey-sleeperback.jpg" alt="WAFFL logo" width="400" height="400"></p>
 `;
 
 /*   STEP 3   */
