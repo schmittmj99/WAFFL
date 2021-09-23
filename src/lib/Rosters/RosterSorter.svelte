@@ -39,7 +39,7 @@
 		align-items: center;
 		justify-content: center;
 		height: 140px;
-		width: 400px;
+		width: 600px;
 		border-radius: 40px;
 		margin: 10px auto;
 		background-repeat: no-repeat;
