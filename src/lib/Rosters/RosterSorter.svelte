@@ -53,7 +53,7 @@
 
 	.banner-D-2 {
 		background-image: url("/division-2-banner.png");
-		background-position: right; 
+		background-position: left; 
 	}
 
 	.banner-D-3 {
@@ -62,7 +62,7 @@
 	}
 
 	h2 {
-		text-align: center;
+		text-align: right;
 		font-size: 3em;
 	}
 
